@@ -1,0 +1,28 @@
+{
+  "employees": [
+    {
+      "name": "Alperen Sungur Karaburun",
+      "department": "Bilişim",
+      "salary": 34234,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Bürdenur Karaburun",
+      "department": "Bilişim",
+      "salary": 6000
+    },
+    {
+      "name": "Ubeydnur Karaburun",
+      "department": "Pazarlama",
+      "salary": 7000,
+      "id": 3
+    },
+    {
+      "name": "Wonder Woman",
+      "department": "Teknoloji",
+      "salary": 1234,
+      "id": 4
+    }
+  ]
+}
